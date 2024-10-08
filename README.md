@@ -1,2 +1,5 @@
-# Zhe_test
-This is a test one for coreR course
+# Test repository
+
+This is a test one for coreR course in 2024
+
+
